@@ -1,6 +1,5 @@
-# 💫 About Me:
-Appassionato di programmazione e fortemente determinato a imparare sempre di più.<br>Creativo e metodico.<br>La mia motivazione è la volontà di eccellere nel mondo della tecnologia.
-
+# 💻 About Me:
+Passionate about programming and determined to always learn more.<br>Creative and methodical.<br>My motivation is the desire to excel in the world of technology.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alberto-chiesa-4a0601265/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chiesaalberto18@gmail.com) 
